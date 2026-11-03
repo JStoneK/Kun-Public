@@ -1,0 +1,23 @@
+[
+  {
+    "has_risk": true,
+    "risk_type": "通道堵塞",
+    "risk_objects": [
+      "桌子",
+      "大水桶"
+    ],
+    "location": "走廊过道",
+    "risk_level": "高",
+    "suggestion": "移除桌子和大水桶，确保消防出口畅通无阻。"
+  },
+  {
+    "has_risk": true,
+    "risk_type": "触电绊倒",
+    "risk_objects": [
+      "地面电线插排"
+    ],
+    "location": "地面",
+    "risk_level": "中",
+    "suggestion": "将电线插排移至安全位置，避免绊倒和触电风险。"
+  }
+]

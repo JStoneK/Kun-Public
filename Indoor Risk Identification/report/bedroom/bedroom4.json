@@ -1,0 +1,22 @@
+[
+  {
+    "has_risk": true,
+    "risk_type": "划伤扎脚",
+    "risk_objects": [
+      "绿色碎片"
+    ],
+    "location": "地面",
+    "risk_level": "高",
+    "suggestion": "移除地面上的绿色碎片，确保地面平整无异物。"
+  },
+  {
+    "has_risk": true,
+    "risk_type": "物品坠落",
+    "risk_objects": [
+      "床头柜上的水杯"
+    ],
+    "location": "床头柜",
+    "risk_level": "低",
+    "suggestion": "将床头柜上的水杯放置在平稳的位置，避免掉落。"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "has_risk": true,
+    "risk_type": "物品坠落",
+    "risk_objects": [
+      "绿色塑料碎片"
+    ],
+    "location": "过道通行区域",
+    "risk_level": "高",
+    "suggestion": "将地面上的绿色塑料碎片清理干净，避免造成砸伤或绊倒的风险。"
+  },
+  {
+    "has_risk": true,
+    "risk_type": "物品坠落",
+    "risk_objects": [
+      "黑色水杯"
+    ],
+    "location": "床头柜",
+    "risk_level": "低",
+    "suggestion": "将床头柜上的水杯移至更安全的位置，避免掉落造成砸伤或碎裂的风险。"
+  }
+]

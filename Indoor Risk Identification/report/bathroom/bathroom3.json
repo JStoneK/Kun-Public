@@ -1,0 +1,42 @@
+[
+  {
+    "has_risk": true,
+    "risk_type": "滑倒绊倒",
+    "risk_objects": [
+      "地面碎片"
+    ],
+    "location": "地面",
+    "risk_level": "高",
+    "suggestion": "移除地面上的碎片，确保地面平整干净。"
+  },
+  {
+    "has_risk": true,
+    "risk_type": "滑倒绊倒",
+    "risk_objects": [
+      "洗护瓶、绿植、杂物"
+    ],
+    "location": "地面",
+    "risk_level": "中",
+    "suggestion": "将地面的洗护瓶、绿植和杂物整理归位，避免滑倒绊倒的风险。"
+  },
+  {
+    "has_risk": true,
+    "risk_type": "滑倒摔伤",
+    "risk_objects": [
+      "地面碎片"
+    ],
+    "location": "地面",
+    "risk_level": "高",
+    "suggestion": "移除地面上的碎片，确保地面平整干净。"
+  },
+  {
+    "has_risk": true,
+    "risk_type": "物品坠落",
+    "risk_objects": [
+      "洗护瓶"
+    ],
+    "location": "洗手台边缘",
+    "risk_level": "低",
+    "suggestion": "将洗护瓶放置在洗手台内部或稳固的位置，避免物品坠落砸脚。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "has_risk": true,
+    "risk_type": "划伤扎脚",
+    "risk_objects": [
+      "绿色玻璃碎片"
+    ],
+    "location": "地面",
+    "risk_level": "高",
+    "suggestion": "立即清理地面上的绿色玻璃碎片，确保地面平整无尖锐物体。"
+  },
+  {
+    "has_risk": true,
+    "risk_type": "绊倒磕碰",
+    "risk_objects": [
+      "黑色枕头、灰色毯子"
+    ],
+    "location": "床边地毯",
+    "risk_level": "中",
+    "suggestion": "将床边地毯上的黑色枕头和灰色毯子整理好，避免其滑动或掉落导致绊倒。"
+  },
+  {
+    "has_risk": true,
+    "risk_type": "物品坠落",
+    "risk_objects": [
+      "床头柜上的杯子"
+    ],
+    "location": "床头柜",
+    "risk_level": "低",
+    "suggestion": "将床头柜上的杯子放置在稳固的位置，避免其掉落砸伤脚部。"
+  }
+]
